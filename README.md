@@ -6,7 +6,7 @@ I enjoy building pipelines that *actually work* — whether that's benchmarking 
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 
 -  [Charisma Predictor](https://github.com/HANKSOONG/Charisma-Predictor): Predicts personality & charisma scores via multi-modal fusion (video, audio, text). Achieved 92.5% accuracy using custom ensemble logic.
 -  [MiniVision](https://github.com/HANKSOONG/MiniVision-Lightweight-and-Transformer-Models-for-CIFAR): Benchmarks ResNet, EfficientNet, DINOv2 on CIFAR-10&100. ViT reached 98.7% & 91.5% accuracy.
@@ -15,7 +15,7 @@ I enjoy building pipelines that *actually work* — whether that's benchmarking 
 
 ---
 
-## 📚 Interests
+##  Interests
 
 - Deep Learning & Model Fusion  
 - Vision Transformers & Visual Reasoning  
