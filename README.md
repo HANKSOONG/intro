@@ -24,7 +24,7 @@ I enjoy building pipelines that *actually work* — whether that's benchmarking 
 
 ---
 
-## 📫 Contact
+##  Contact
 
 - 🌐 [LinkedIn](https://linkedin.com/in/hank-song-391856298)
 - 📩 Email: *[h.song@student.maastrichtuniversity.nl]*
