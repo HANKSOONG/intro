@@ -24,5 +24,5 @@ I'm a Master's student in AI, with a focus on **vision**, **multimodal fusion**,
 
 ## 📫 Contact
 
-- 🌐 [LinkedIn]([https://linkedin.com/in/hank-song-391856298])
+- 🌐 [LinkedIn](https://linkedin.com/in/hank-song-391856298)
 - 📩 Email: *[h.song@student.maastrichtuniversity.nl]*
