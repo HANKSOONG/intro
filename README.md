@@ -8,10 +8,10 @@ I enjoy building pipelines that *actually work* — whether that's benchmarking 
 
 ## 🚀 Selected Projects
 
-- 🎭 [Charisma Predictor](https://github.com/HANKSOONG/Charisma-Predictor): Multi-modal AI for personality & leadership assessment (video, audio, text fusion)
-- 🧠 [MiniVision](https://github.com/HANKSOONG/MiniVision-Lightweight-and-Transformer-Models-for-CIFAR): ResNet / EfficientNet / ViT comparison with UMAP visualizations
-- 🔧 [Image Restoration](https://github.com/HANKSOONG/Image-Restoration): DnCNN vs. NAFNet on GOPRO/RealBlur with metric + perceptual analysis
-- 🧵 [Image Stitching](https://github.com/HANKSOONG/Image-Stitching): Harris + SIFT + RANSAC full classical CV pipeline
+-  [Charisma Predictor](https://github.com/HANKSOONG/Charisma-Predictor): Multi-modal AI for personality & leadership assessment (video, audio, text fusion)
+-  [MiniVision](https://github.com/HANKSOONG/MiniVision-Lightweight-and-Transformer-Models-for-CIFAR): ResNet / EfficientNet / ViT comparison with UMAP visualizations
+-  [Image Restoration](https://github.com/HANKSOONG/Image-Restoration): DnCNN vs. NAFNet on GOPRO/RealBlur with metric + perceptual analysis
+-  [Image Stitching](https://github.com/HANKSOONG/Image-Stitching): Harris + SIFT + RANSAC full classical CV pipeline
 
 ---
 
