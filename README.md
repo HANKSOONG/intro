@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hank Song
 
-I'm a Master's student in AI, with a focus on **vision**, **multimodal fusion**, and **deep learning systems**. 
+I'm a Master's student in AI, with a focus on **data science**, **deep learning**, **computer vision**, and **language models**. 
 
 I enjoy building pipelines that *actually work* — whether that's benchmarking DINOv2 on CIFAR, restoring blurry images, or fusing human traits across video, text, and audio.
 
